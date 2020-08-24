@@ -1,5 +1,5 @@
 ### Principal Engineer @Equinix
-Frequently hacking on [@PacketHost](https://github.com/packethost) and [@PacketLabs](https://github.com/packet-labs) integrations and OSS projects related to IaC, Kubernetes, and the hybrid cloud.
+Frequently hacking on [@PacketHost](https://github.com/packethost) and [@PacketLabs](https://github.com/packet-labs) integrations and OSS projects related to IaC, Kubernetes, and the hybrid cloud. Following and contributing to [@Tinkerbell](https://github.com/tinkerbell) whenever I get the chance!
 
 ### Formerly
 [@Upbound](https://github.com/upbound) ([@Crossplane](https://github.com/crossplane)), [@Linode](https://github.com/linode), [@GuaranteedRate](https://github.com/guaranteedrate), [#PPPL](https://github.com/topics/pppl), [@SFWMD](https://github.com/sfwmd)
