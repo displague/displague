@@ -1,4 +1,4 @@
-### Principal Engineer @Equinix
+### Director of Engineering (DevRel) @Equinix
 
 * Frequently hacking on [@Equinix](https://github.com/equinix) (Equinix Metal), and [@EquinixLabs](https://github.com/equinix-labs) integrations.
 * Interested in OSS projects related to IaC, Kubernetes, and the hybrid cloud
