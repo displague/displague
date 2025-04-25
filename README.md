@@ -1,8 +1,7 @@
-### Director of Engineering (DevRel) @Equinix
+### Developer Experience @Equinix
 
-* Frequently hacking on [@Equinix](https://github.com/equinix) (Equinix Metal), and [@EquinixLabs](https://github.com/equinix-labs) integrations.
-* Interested in OSS projects related to IaC, Kubernetes, and the hybrid cloud
-* Following and contributing to [@Tinkerbell](https://github.com/tinkerbell) whenever I get the chance!
+[@Equinix](https://github.com/equinix), [@Equinix-Labs](https://github.com/equinix-labs),
+[@Tinkerbell](https://gihub.com/tinkerbell)
 
 ### Formerly
 
