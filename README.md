@@ -1,7 +1,7 @@
 ### Developer Experience @Equinix
 
 [@Equinix](https://github.com/equinix), [@Equinix-Labs](https://github.com/equinix-labs),
-[@Tinkerbell](https://gihub.com/tinkerbell)
+[@Tinkerbell](https://github.com/tinkerbell)
 
 ### Formerly
 
