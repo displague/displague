@@ -1,4 +1,4 @@
-### Developer Experience @Equinix
+### Integration Experience @Equinix
 
 [@Equinix](https://github.com/equinix), [@Equinix-Labs](https://github.com/equinix-labs) ([@Tinkerbell](https://github.com/tinkerbell))
 
